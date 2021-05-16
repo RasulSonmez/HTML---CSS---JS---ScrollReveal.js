@@ -4,6 +4,6 @@
 
 <h6>One Page<h6>
 
-  <h2> <a href="https://paylastikca-youtube.netlify.app/" rel="nofollow">Demo website</a> </h2>
+  <h2> <a href="https://html-css-js-scrollrevealjs-beginnertutorial.netlify.app/" rel="nofollow">Demo website</a> </h2>
 
   <h6>Pictures and photos were taken from https://unsplash.com/.</h6>
